@@ -8,7 +8,7 @@ You can find the original repo based on Laravel 4.2 in [this repo](https://githu
 
 ## Installation
 
-1. Clone the repo: `git clone git@github.com:scotch-io/laravel-angular-comment-app`
+1. Clone the repo: `git clone git@github.com:daverivera/scotch_IO-laravel-angular-comment-app.git`
 2. change directory: `cd scotch_IO-laravel-angular-comment-app/`
 3. Install Laravel: `composer install --prefer-dist`
 4. Change your database settings in `.env` as well as in `app/config/database.php`
