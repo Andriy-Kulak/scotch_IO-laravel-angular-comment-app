@@ -1,10 +1,10 @@
-# Laravel and Angular Single Page Comment App
-## Using Laravel 5.0
+# Laravel and Angular Single Page Comment App (using Laravel 5.0)
 
 This is my implemantion of the Scotch.io's tutorial [Laravel and Angular Single Page Comment App](http://scotch.io/tutorials/php/create-a-laravel-and-angular-single-page-comment-application) using Laravel 5.0.
 
 You can find the original repo based on Laravel 4.2 in [this repo](https://github.com/scotch-io/laravel-angular-comment-app)
 
+There's also some slight changes on the front-end. I have changed the AngularJS version from 1.2.8 to 1.3.14, also I've changed the way controllers and services modules are created, and now it doesn't use JQuery to parse the data on the `POST` request to create a *comment*
 
 ## Installation
 
